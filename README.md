@@ -1,5 +1,5 @@
 ## FRT-Project Submission
-My Foodie Blog features a website of restaurant offers a variety of healthy and delicious national and international cuisines at an affordable cost 
+Food Garden serves freshest ingredients with the finest taste. Our chefs fuse together flavor and aroma to capture the essence of the traditional North Indian cuisine.
 ## Azure-Link : 
 ## Git-Hub link : 
 ## Website : 
